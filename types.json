@@ -1,0 +1,7 @@
+{
+	"Number":31,
+	"String":"documents",
+	"Boolean":true,
+	"Object":{"stature":180,"weight":85},
+	"Null":null
+}
